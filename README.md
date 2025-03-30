@@ -7,9 +7,9 @@ This repository contains a beginner-friendly tutorial demonstrating how to build
 The system consists of:
 
 1. **Specialized Agent Tools**: Three agents dedicated to specific arithmetic operations:
-   - `add_agent`: Specialized in addition
-   - `subtract_agent`: Specialized in subtraction
-   - `multiply_agent`: Specialized in multiplication
+   - `add_agent`: performs addition
+   - `subtract_agent`: performs subtraction
+   - `multiply_agent`: performs in multiplication
 
 2. **Supervisor Agent**: A high-level agent that:
    - Interprets user queries
